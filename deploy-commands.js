@@ -1,6 +1,6 @@
 const { Client, GatewayIntentBits, PermissionsBitField } = require('discord.js');
 
-const TOKEN = 'MTM4Mzc2MzA1MDM4MDc4NzcxMg.GTkT6w.L3vHMiAVjq8Ha1C4df12bZgwfMz22v6dFkj71g'; // Replace with your (regenerated!) bot token
+const TOKEN = 'MTM4Mzc2MzA1MDM4MDc4NzcxMg.GPVf0K.x1Zgarmj2GI8lwh-Ucsmgn2_iza-Tc5-9U6CAE'; // Replace with your (regenerated!) bot token
 
 const client = new Client({
     intents: [
